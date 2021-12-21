@@ -1,0 +1,25 @@
+{
+  "name": "ts-testing-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Typescript testing with Jest",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Txarli/ts-testing-boilerplate.git"
+  },
+  "keywords": [
+    "testing",
+    "boilerplate",
+    "jest",
+    "typescript"
+  ],
+  "author": "Aitor Urrutia Aranburu",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Txarli/ts-testing-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Txarli/ts-testing-boilerplate#readme"
+}
